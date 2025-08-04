@@ -33,11 +33,11 @@ section{
   flex-shrink: 0;
 }
 .s1{
-  background-image: url('/b1.png');
+  background-image: url('./b1.png');
 }
 .s2{
-  background-image: url('/b2.png');
+  background-image: url('./b2.png');
 }
 .s3{
-  background-image: url('/b3.png');
+  background-image: url('./b3.png');
 }
